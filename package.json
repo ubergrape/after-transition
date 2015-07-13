@@ -21,7 +21,7 @@
     "css-emitter": "css-emitter-component"
   },
   "dependencies": {
-    "css-emitter-component": "ubergrape/css-emitter-component",
+    "css-emitter-component": "ubergrape/css-emitter",
     "has-transitions": "git://github.com/anthonyshort/has-transitions#0.3.0"
   }
 }
